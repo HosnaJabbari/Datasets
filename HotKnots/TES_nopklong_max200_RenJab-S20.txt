@@ -1,0 +1,348 @@
+> Homo_sapiens
+AUACUUACCUGGCAGGGGAGAUACCAUGAUCACGAAGGUGGUUUUCCCAGGGCGAGGCUUAUCCAUUGCACUCCGGAUGUGCUGACCCCUGCGAUUUCCCCAAAUGUGGGAAACUCGACUGCAUAAUUUGUGGUAGUGGGGGACUGCGUUCGCGCUUUCCCCUG
+...........((((((((((.(((((..........))))))))))).(((......(((.((..........)).)).).....)))..((((.(.((.......))))...))).))))...............(((((...(((....)))...))))).
+
+> Arabidopsis
+UUACUUACCUGGACGGGGUCAACUUGUGAUCAAUAAGACGAGUGGCCUAGGCUAGUGACCUCCAUUGCACAUAACGGAGGGGUGCUUAGCUUAAGGUCUCCCCAAGUGGGAGAGCCUGCGUCAUUAUUUGUGGCAGAGGGGGCCUGCGUUCGCGCGGUCCCUAC
+...........((((((((((.(((((..........)))))))))))(((......(((.((............))..)).)......))).((((.(((......))))...))).))))...............((((..(((((....))))).))))..
+
+> SSTRAND_ID=ASE_00160; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=Kluyveromyces thermotolerans, strain NRRL Y-2233; ORGANISM=NULL
+CGAGACAACAAUCGCCAGGGGCUUCGGCCCUGAUUCUCGUGAGAGAAGCCGCUGGAAAGCGGUUGUGGGCGCUGUCAUCAGAAAUACACAUGUUGGCCGGCGCUAUCGCCGCACCAAUGUGAUGGGAAAGGCAGCGGAUGUCUCGUUUGACUUUGCCUUAGGGUAAAGGUCU
+.((((((..........................(((((....)))))((((((....))))))......(((((((...............((((..(((((....)))))...))))...........)))))))..))))))....((((((.(.....)..))).))).
+
+> SSTRAND_ID=ASE_00320; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=Streptococcus equi, strain equi; ORGANISM=NULL
+gcUAGCACCGGCUGUGAUGCUGGUAGUGUUUGUGCUAGGCGAACAAAUAAGCCUAGGGAUGUGUUUGACACAUUACGGCGAGUGAAAAGGCUAAGUCCUUGAUAUGCCAGAGUAGCUCUGAAAGUGCCACAGUGACGAAGUUUUUAUGGAAACGUAAAAAGUGGAACGCGGUAAACCCCUCAAGCUAGC
+.(((((((((((......)))))).....(((.(((((((..........))))))((((((((...))))))).)((.((((.....(((...(((...)))..)))......)))).....(((((............((((((((....)))))))).........)))..))))).)))))))).
+
+> SSTRAND_ID=ASE_00320; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=Streptococcus equi, strain equi; ORGANISM=NULL
+ACCCAAACUUUGGUAGGGGCAUGGGAUAGUUGGAAACGAACAAGCUAUCCUGACUGUUGACAAACAgUAGACAGAUGAUUAUCGAAGGAGAUAAUACCUAGUUAUUUCUG
+.(((...........)))...(((((((.................)))))))((((((....))))))..................(((((((((.....))))))))).
+
+> SSTRAND_ID=ASE_00443; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=Wickerhamia fluorescens, strain NRRL Y-4819; ORGANISM=NULL
+UCCAUCCAGACUUAUAGAUUGAAACUUUCCUUGAAAGUUUCGGCUUAUGAGUUACAAACUGCUCUUGAGAGCGUCCUUAGCGUGCAAACGCUGGGCGGUGCUAUCAGAAAUUUACCAGUCCUUACUUCGUAUUGGGACUGGAUGGGAAUGGCACUGCGGAUGGUUGGCCCUCUGAAUGAGAGAGAGGGCU
+.((((((....................................................(((((....)))))..((((((((....))))))))(((((((............(((((((((((...)))..))))))))........))))))).))))))...(((((((.........))))))).
+
+> SSTRAND_ID=CRW_00154; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.b.M.leprae.GEN; ORGANISM=NULL
+CGCCCGUCACGUCAUGAAAGUCGGUAACACCCGAAGCCAGUGGCCUAACCCUCGGGAGGGAGCUGUCCAAGGUGGGAUCGGCGAUUGGGACGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGGCUGG
+.(..((...((((.(((..((((((..((((....(.((((..(((..((....)).))).)))).)...))))..))))))..))).))))....))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00197; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.b.S.aureus.GEN; ORGANISM=NULL
+CGCCCGUCACACCACGAGAGUUUGUAACACCCGAAGCCGGUGGAGUAACCUUUUAGGAGCUAGCCGUCGAAGGUGGGACAAAUGAUUGGGGUGAAGUCGUAACAAGGUAGCCGUAUCGGAAGGUGCGGCUGG
+.(..((...((((.(((..((((((..((((....(.((((..(((..(((...))).))).)))).)...))))..))))))..))).))))....))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00257; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.b.V.cholerae; ORGANISM=NULL
+CGCCCGUCACACCAUGGGAGUGGGCUGCAAAAGAAGCAGGUAGUUUAACCUUCGGGAGGACGCUUGCCACUUUGUGGUUCAUGACUGGGGUGAAGUCGUAACAAGGUAGCGCUAGGGGAACCUGGCGCUGG
+.(..((...((((.(((..((((((((((((....((((((.((((..((....)).))))))))))...))))))))))))..))).))))....))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00272; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.c.C.paradoxa; ORGANISM=NULL
+CGCCCGUCACACCACGGGAGUCGGCCAUGCCGAAGUCGUUACCCUAACCAUUUCGGAGGGGGAUGCCUAAGGCAGGGCUGGUGACUGGGGUGAAGUCGUAACAAGGUAGCCGUACUGGAAGGUGUGGCUGG
+.(..((.(.((((.(((..(((((((.((((...(.((((.((((..((.....)).)))))))).)...)))).)))))))..))).))))..).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00279; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.c.H.akashiwo; ORGANISM=NULL
+CGCCCGUCACACCAUGGAAGCUGGUCACACCCAAAGUCGUUAUUCUAACCGUUUGGAGGAAGGCGCCUAAGGUAGGAUUGGUGACUGGGGUGAAGUCGUAACAAGGUAGCCGUACCGGAAGGUGCGGCUGG
+.(..((.(.((((.(((..(((((((..(((....(.((((.((((..((....)).)))))))).)...)))..)))))))..))).))))..).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00284; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.c.P.littoralis; ORGANISM=NULL
+CGCCCGUCACACCAUGGAAGCUGGUUAUACCCGAAGUCGUUUUCUUAACCUUUUUGGAGAGAGGCGCCUAAGGUAAGGCUAGUGACUGGGGUGAAGUCGUAACAAGGUAGCCGUACGGGAACGUGCGGCUGG
+.(..((.(.((((.(((..(((((((.((((....(.((((.((((..((.....)).)))))))).)...)))).)))))))..))).))))..).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00285; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.c.P.minor; ORGANISM=NULL
+CGCCCGUCACACCACGGGAGCUGGCUAUGCCCAAAGUCGUUACCCCAACCGUUUGGAGGGGGAUGCCUAAGGCAGAGCUAGUGACUGGGGUGAAGUCGUAACAAGGUAGCCGUACUGGAAGGUGCGGCUGG
+.(..((.(.((((.(((..(((((((.((((....(.((((.((((..((....)).)))))))).)...)))).)))))))..))).))))..).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00286; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.c.P.palmata; ORGANISM=NULL
+CGCCCGUCACACCACGGAAGCUGGCCACGCCCAAAGUCGUUACCCUAACCUUUUGGAGGGGGGCGCCUAAGGCAGGGCUAGUGACUGGGGUGAAGUCGUAACAAGGUAGCCGUACUGGAAGGUGCGGCUGG
+.(..((.(.((((.(((..(((((((..(((....(.((((.((((..((....)).)))))))).)...)))..)))))))..))).))))..).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00291; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.c.S.pseudocostatum; ORGANISM=NULL
+CGCCCGUCACACCAUGGAAGCUGGUUAUACCCGAAGUCAUUACUCUAACCAUUUGGGGGAGGGUGCCUAAGGUAGAAUUAGUGACUGGGGUGAAGUCGUAACAAGGUAACCGUACUGGAAGGUGCGGUUGG
+.(..((.(.((((.(((..(((((((.((((....(.((((.((((..((....)).)))))))).)...)))).)))))))..))).))))..).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00418; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.m.A.cahirinus; ORGANISM=NULL
+CGCCCGUCACCCUCCUCAAACUAAUCUUCAAGUAAAAUAAAUAAAAUUAAACUAACUAGAAUACGAGAGGAGACAAGUCGUAACAAGGUAAGCAUACUGGAAAGUGUGCUUGG
+.(..((.(...((((((.................................................))))))....).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00426; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.m.D.dugon; ORGANISM=NULL
+CGCCCGUCACCCUCCUCAAGUAUUCAUAACCAUUCCACCAUAUAUGAUCCUAAUAGCAUAUGAGAGGAGACAAGUCGUAACAAGGUAAGCAUACUGGAAAGUGUGCUUGG
+.(..((.(...((((((..((((..................................))))..))))))....).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00427; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.m.D.geoffroii; ORGANISM=NULL
+CGCCCGUCACCCUCCUCGAUAAAGUAACCUUCAAUACCUAAUUAGAAUACGCUAAAAAGAGGAGAAAAGUCGUAACAUGGUAAGUGUACUGGAAAGUGCACUUGG
+.(..((.(...((((((.........................................))))))....).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00444; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.m.M.putorius; ORGANISM=NULL
+CGCCCGUCACCCUCCUCAAGCAACACACUCAAAUACUACAUAAUAAAAGUAAACCUAAAGCAAGAGGAGACAAGUCGUAACAAGGUAAGCAUACUGGAAAGUGUGCUUGG
+.(..((.(...((((((..((......................................))..))))))....).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00447; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.m.N.typhlops; ORGANISM=NULL
+CGCCCGUCACUCUCCUCAAUAAGCACUCAAAUUUAAAUAAAACAAAUAGACAAUAAAGAGGAGAAAAGUCGUAACAUGGUAAGCGUACUGGAAAGUGCGCUUGG
+.(..((.(..(((((((........................................)))))))...).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00451; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.m.O.cuniculus; ORGANISM=NULL
+CGCCCGUCACCCUCCUCAAGUGACAAAUAUUUACUUAUACCUAAUUACAUAAAUAGACAAGCAUAAGAGGAGAUAAGUCGUAACAAGGUAAGCAUACUGGAAAGUGUGCUUGG
+.(..((.(...((((((..(((.......................................)))..))))))....).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00458; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.m.S.aquaticus; ORGANISM=NULL
+CGCCCGUCACCCUCCUCAAGUACUAAAGCCAGUCAAUAUACAUAAUAUAUAGGCAAUAAAUACAAGAGGAGAUAAGUCGUAACAAGGUAAGCAUACUGGAAAGUGUGCUUGG
+.(..((.(...((((((..(((......................................)))..))))))....).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00459; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.m.S.scrofa; ORGANISM=NULL
+CGCCCGUCACCCUCCUCAAGCAUGUAGUAAUAAAAAUAACCUAUAUUCAAUUACACAACCAUGCAAGAAGAGACAAGUCGUAACAAGGUAAGCAUACUGGAAAGUGUGCUUGG
+.(..((.(...(((.((..((.........................................))..)).)))....).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00466; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.y.C.paradoxa; ORGANISM=NULL
+CGCCCGUCACACCACGGGAGUCGGCCAUGCCCGAAGUCGUUACCCUAACCAUUUCGGAGGGGGAUGCCUAAGGCAGGGCUGGUGACUGGGGUGAAGUCGUAACAAGGUAGCCGUACUGGAAGGUGCGGCUGG
+.(..((...((((.(((..(((((((.((((....(.((((.((((..((.....)).)))))))).)...)))).)))))))..))).))))....))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00519; TYPE=23S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.233.b.T.thermophilus; ORGANISM=Thermus thermophilus
+AGGAGGCUUGAGGGGGGCUCUUCCUAGUACGAGAGGACCGGAAGGGACGCACCUCUGGUUUCCCAGCUGUCCCUCCAGGGGCAUAAGCUGGGUAGCCAUGUGCGGAAGGGAUAACCGCUGAAAGCAUCUAAGCGGGAAGCCCGCCCCAAGAUGAGGCCUCCCACGGCGUCAAGCCGG
+.((((((((..((((..(((((((...............))))))).(((((...(((....(((((((((((....))))))...)))))....))).)))))...(((....(((((...........)))))....))).))))......))))))))..((((.....)))).
+
+> SSTRAND_ID=CRW_00553; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.b.B.subtilis; ORGANISM=Bacillus subtilis
+CUUGGUGGCGAUAGCGAAGAGGUCACACCCGUUCCCAUACCGAACACGGAAGUUAAGCUCUUCAGCGCCGAUGGUAGUCGGGGGUUUCCCCCUGUGAGAGUAGGACGCCGCCAAGC
+((((((((.....((((((((.....((((((.............))))..))....)))))).)).((.((....((.(((((...))))).))....)).))...)))))))).
+
+> SSTRAND_ID=CRW_00556; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.b.G.stearothermophilus.1; ORGANISM=NULL
+CCUAGUGACAAUAGCGGAGAGGAAACACCCGUUCCCAUCCCGAACACGGAAGUUAAGCUCUCCAGCGCCGAUGGUAGUUGGGGCCAGCGCCCCUGCAAGAGUAGGUCGUUGCUAGGC
+((((((((.....((((((((.....((((((.............))))..))....)))))).)).((.((....((.(((((....))))).))....)).))...)))))))).
+
+> SSTRAND_ID=CRW_00767; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=b.16.m.A.platyrhynchos; ORGANISM=NULL
+CGCCCGUCACCCUCCUCAUAAGCCACACCCCCACAUAAUUAAUACCUCGUAAAUGCCAAAGAUGAGGUAAGUCGUAACAAGGUAAGUGUACCGGAAGGUGUACUUAG
+.(..((.(..((((.((....((...........((.....))...........))....)).))))...).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00769; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=b.16.m.C.carpio; ORGANISM=NULL
+CGCCCGUCACUCUCCCCUGUCAAAACGCACCAAAAAUACAUAAUACAACAGCACUGACAAGGGGAGGCAAGUCGUAACACGGUAAGUUACCGGAAGUGCACUUGG
+.(..((.(..((((((((((((....((.....(......).........))..)))).))))))))...).))...)....((((((((.....))).))))).
+
+> SSTRAND_ID=CRW_00770; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=b.16.m.C.coscoroba; ORGANISM=NULL
+CGCCCGUCACCCUCCUCAAAAGCCACGUUCUACAUACCUAAUACCAACAACAUGCUGAAGAUGAGGUAAGUCGUAAUAAGGUAAGUGUACCGGAAGGUGUACUUAG
+.(..((.(..((((.((....((...((.....((.....)).......))..))....)).))))...).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00772; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=b.16.m.C.crispus; ORGANISM=NULL
+CGCCCGUCACGCUAUGGAAAUUCUUUUUGCUUGAAAAAUGUUUAACAAUUUUAUAGUAAAAGAAAAACUGGAGUGAAGUCGUAACAAGGUAGCCGUAGGGGAACCUGCGGCUGG
+.(..((...((((.(((...(((((((.(((..((((.(((...))).))))..))))))))))...))).))))....))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00773; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=b.16.m.C.lacustre; ORGANISM=NULL
+CGCCCGUCACUCUCCCCUGUAAUAGCAAUCAAUGUAAAUAACAACAAAGCACCAACAAGGGGAGGCAAGUCGUAACAUGGUAAGUGUACCGGAAGGUGCACUUGG
+.(..((.(..((((((((((....((.....((....)).........))....)).))))))))...).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00775; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=b.16.m.C.parallelus.ESC; ORGANISM=NULL
+CGCCCGUCACUCUCAUUAUUGAUUAAUCUAUUUUAAUUUAAAGUUAGUUUCAGUUUAGAUGAGAUAAGUCGUAACAUAGUAGAUGUACUGGAAAGUGUAUCUAG
+.(..((.(..(((((((...((((((...........))..))))............)))))))...).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00789; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=b.16.m.N.olivacea; ORGANISM=NULL
+CGCCCGUCACACCCUGGGAAUUUUUUUGGCCCGAAGGUAACUACACAAAUUUUUUCAUGAUAGAUUCACUUGUGGAUUUAUGGUGCGAAUUUUUAUUAUGUUUCCCACGGUCGAGGAAGUGACUGAGGUGAAGUCGUAACAAGGUAGUCGUAGGGGAACCUGCGGCUGG
+.(..((.(.((((.(((..((((((((((((....((.(((.....(((...((((((.(((((((((....))))))))).))).)))))).......))).))...))))))))))))..))).))))..).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00791; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=b.16.m.O.mykiss; ORGANISM=NULL
+CGCCCGUCACUCUCCCCAAGUUCAACCUGUCCUUCUAACUAAGAAGUUAACCGAACAAAGGGGAGGCAAGUCGUAACAUGGUAAGUGUACCGGAAGGUGCGCUUGG
+.(..((.(..(((((((..((((.....((.(((((.....)))))...)).))))...)))))))...).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00797; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=b.16.m.P.minor; ORGANISM=NULL
+UGCUCGUCACAUGUCGAAAUUUAUUUAUAUCUUAAAUAUUAAUUACUAAAUUUUAUAUUUAUUAAAAUUUUUCUAUUAAUCUGAAUUCUAUAAAUAAUGAUUGAGAUGAAGUCGAAACAUGGUGGUUGUAGUGGAAGCUGCAGCUGA
+.(..((.(.(((.((((...(((((((((........((((((....((((((((.......))))))))....))))))........)))))))))...)))).)))..).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00799; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=b.16.m.P.troglodytes; ORGANISM=NULL
+CGCCCGUCACCCUCCUCAAGUAUACUUCAAAGGAUACUUAACUUAAACCCCCUACGUAUUUAUAUAGAGGAGAUAAGUCGUAACAUGGUAAGUGUACUGGAAAGUGCACUUGG
+.(..((.(...((((((..(((........(((.................))).......)))...))))))....).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_00801; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=b.16.m.R.catesbeiana; ORGANISM=NULL
+CGCCCGUCACCCUCUUCGAUAGUAUCUCACCCCGUUCCUAACCCACUAUUACAUUUUAGAAGAGGCAAGUCGUAACAUGGUAAGUGUACUGGAAAGUGCACUUGG
+.(..((.(..(((((((...(((..........((.........))......)))...)))))))...).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_01214; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.e.H.anguillarum; ORGANISM=NULL
+CGCCCGUCGUUAUCGAAGAUGGAGUCAGGCGCGAACAAGCGAGAGCGAGUGAGUGCAGGGUUCUAGAUGUGAUACAAGUCGUAACAAGGUAGCUGUAGGAGAACCUGUAGCUGG
+.(..((.(..(((((.(..(((((((..((((..((..((....))..))..))))..)))))))..).)))))...).))...)....((((((((((....)))))))))).
+
+> SSTRAND_ID=CRW_01241; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.e.N.apis; ORGANISM=NULL
+CGCCCGUCGCUAUCUAAGAUGAUAUGUGUUGUGAAAUUAGUGCAAGCUACUUGAACAAUAUGUAUUAGAUCUGAUAUAAGUCGUAACAUGGUUGCUGUUGGAGAACCAUUAGCAGG
+.(..((.(..((((..(..(((((((((((((..((.((((....)))).))..)))))))))))))..)..))))...).))...)....((((((.(((....))).)))))).
+
+> SSTRAND_ID=CRW_01242; TYPE=16S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.16.e.N.bombycis.02; ORGANISM=NULL
+CGCCCGUCGCUAUCUAAGAUGGUAUUAUCUAUGAACAAAUUUAUAAAGUGAAUAGAUAGUACUAGAUCUGAUAUAAGUCGUAACAAGGUUGCUGUUGGAGAACCAUUAGCAGG
+.(..((.(..((((..(..(((((((((((((..((..(....)...))..)))))))))))))..)..))))...).))...)....((((((.(((....))).)))))).
+
+> SSTRAND_ID=CRW_01494; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.a.M.jannaschii.rrnA; ORGANISM=Methanocaldococcus jannaschii
+UGGUACGGCGGUCAUAGCGGGGGGGCCACACCCGAACCCAUCCCGAACUCGGAAGUUAAGCCCCCCAGCGAUGCCCCGAGUACUGCCAUCUGGCGGGAAAGGGGCGACGCCGCCGGCCAC
+((((.(((((((....((((((((.....((((((.............))))..))....)))))).))..((((((...(.(((((....))))).)..))))))..))))))))))).
+
+> SSTRAND_ID=CRW_01502; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.a.P.occultum; ORGANISM=NULL
+UGGCCCGACCCGGCCAUAGCGGCCGGGCAACACCCGGACUCAUGUCGAACCCGGAAGUUAAGCCGGCCGCGUUGGGGGAUGCUGUGGGGUCCGCGAGGCCCCGCAGCGCCCCCAAGCCGGGAUCGGGCCG
+((((((((((((((....((((((((.....((((((.............))))..))....)))))))).(((((((...((((((((.((....))))))))))..))))))))))))).))))))))
+
+> SSTRAND_ID=CRW_01503; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.a.P.woesei; ORGANISM=NULL
+GGUACGGCGGUCAUAGCGGGGGGGCCACACCCGGUCUCAUUUCGAACCCGGAAGUUAAGCCCCCCAGCGAUCCCGGCUGUACUGCCCUCCGAGAGGGGGCGGGAACCGGGGACGCCGCCGGCCA
+(((.(((((((....((((((((.....((((((.............))))..))....)))))).))..((((((...(.((((((.((....)))))))).).))))))..)))))))))).
+
+> SSTRAND_ID=CRW_01521; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.b.M.genitalium; ORGANISM=NULL
+UUUUGUUUGGUGCUAAUAUCGCUGUGGAAACACCUGGAACCAUCCCGAACCCAGCAGUUAAGCACAGUGGAGCUAAAUGUAGGUAGUAAUACUGAGAAUAGGUAAGCACCAAGCAAAA
+...((((((((((.....((((((((.....((((((.............))))..))....)))))).)).((.(.(...((((....))))...).).))...))))))))))...
+
+> SSTRAND_ID=CRW_01535; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.A.equina; ORGANISM=NULL
+GUCUACGGCCAUACCACCGGGAAAAUACCGGUUCUCGUCCGAUCACCGAAGUCAAGCCCGGUAGGGCCAGGUUAGUACUUGGAUGGGUGACCGCCUGGGAAUACCUGGUGCUGUAGACUU
+(((((((((....((((((((.....((((((............))))..))....)))))).)).(((((......((.((.(((....))))).)).....))))).)))))))))..
+
+> SSTRAND_ID=CRW_01553; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.D.mauritiana; ORGANISM=NULL
+GCCAACGACCAUACCACGCUGAAUACAUCGGUUCUCGUCCGAUCACCGAAAUUAAGCAGCGUCGGGCGCGGUUAGUACUUAGAUGGGGGACCGCUUGGGAACACCGCGUGUUGUUGGCCU
+(((((((((....((((((((.....((((((............))))..))....)))))).)).(((((......((.((.(((....))))).)).....))))).)))))))))..
+
+> SSTRAND_ID=CRW_01559; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.E.gracilis.2; ORGANISM=NULL
+GGCGUACGGCCAUACUACCGGGAAUACACCUGAACCCGUUCGAUUUCAGAAGUUAAGCCUGGUCAGGCCCAGUUAGUACUGAGGUGGGCGACCACUUGGGAACACUGGGUGCUGUACGCUU
+.(((((((((....((((((((.....((((((............))))..))....)))))).)).(((((......(((((.(((....)))))))).....))))).)))))))))..
+
+> SSTRAND_ID=CRW_01564; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.G.arboreum; ORGANISM=NULL
+GGGUGCGAUCAUACCAGCACUAAACCACCGGAUUCCAUCAGUGCUCCCCAGUUAAGCGUGCUUGGCCGAGAGUAGAACUAGGGUGGGUGACCUCCUGGGAAGUCCUCGUGUUGCACCCCU
+(((((((((....(((((((......((.(((............)))...)).....))))).)).((((.......((((((.((....))))))))......)))).)))))))))..
+
+> SSTRAND_ID=CRW_01566; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.G.gnemon; ORGANISM=NULL
+GGGUGCGAUAAUACCACCGCUAACGUAUCGGAUCCGAUCAGAACUCCGUAAUUAAGCGCGCUUGGGCUAGAGUAGUACUGGGAUGGGUGACCUCUCGGGAAGUCCUAGUGUUGCACCCAC
+(((((((((....(((.(((......((((((............))))..)).....))).).)).((((.......((((((.((....))))))))......)))).)))))))))..
+
+> SSTRAND_ID=CRW_01570; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.H.rufipes; ORGANISM=NULL
+GUCAACGGCCAUAGCACGCUGUAAAUACCGGUUCUCGUCCGAUCACCGAAGUCAAGCAGCGUUGCGCGCGGUUAGUACCUGGAUGGGUGACCGCUUGGGAACACCGCGUGCCGUUGACAU
+(((((((((....((((((((.....((((((............))))..))....)))))).)).(((((......((.((.(((....))))).)).....))))).)))))))))..
+
+> SSTRAND_ID=CRW_01572; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.H.sapiens.1; ORGANISM=Homo sapiens
+AUCUAUGGCUGUACCGCUCUGAACGUGCACUAUCUCUUCUGAUCUCAAAAGCUAAGCAGGGUCAGGCCUGGUUAGUACUGGAAUGGGAGACCACAUGGGAAAACUGGGUGCUGUAGGCU
+.((((((((....(.((((((.....((...(............).....))....))))))..).(((((......(((...(((....)))..))).....))))).))))))))..
+
+> SSTRAND_ID=CRW_01583; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.L.edodes; ORGANISM=NULL
+AUCCACGGCCAUAGGACUCUGAAAGAACCGCAUCCCGUCUGAUCUGCGCAGUUAACCAGAGUGCCGCCUAGUUAGUACCACGGUGGGGGACCACGCGGGAAUCCUAGGUGCUGUAGUUUU
+(.(.(((((....((((((((....(((((((............))))..)))...)))))).)).(((((......((.((.(((....))))).)).....))))).))))).).)..
+
+> SSTRAND_ID=CRW_01586; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.L.luteus; ORGANISM=NULL
+AGGUGCGAUCAUACCAGCACUAAUGCACCGGAUCCCAUCAGAACUCCGCAGUUAAGCGUGCUUGGGCGAGAGUAGUACUAGGAUGGGUGACCUCCUGGGAAGUCCUCGUGUUGCACCUCC
+(((((((((....(((((((......((((((............))))..)).....))))).)).((((.......((((((.((....))))))))......)))).)))))))))..
+
+> SSTRAND_ID=CRW_01590; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.M.glyptostroboides; ORGANISM=NULL
+GGGUGCGAUCAUACCAGCGUUAGUGCACCGGAUCCCAUCAGAACUCCGCAGUUAAGCGCGCUUGGGCCGGAGUAGUACUGGGAUGGGUGACCUCCCGGGAAGUCCCGGUAUUGCACCCUU
+(((((((((....(((((((......((((((............))))..)).....))))).)).((((.......((((((.((....))))))))......)))).)))))))))..
+
+> SSTRAND_ID=CRW_01594; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.N.viridescens; ORGANISM=NULL
+GCUUACGGCCAUACCACCCUGAAAGCACCUGAUCUCGUCUGAUCUCAGAAGUUAAGCAGGGUCGGGCCUGGUUAGUACCUGGAUGGGAGACCGCCUUGGAAUACCAGGUGCUGUAGGCUU
+(((((((((....((((((((.....((((((............))))..))....)))))).)).(((((......(..((.(((....)))))..).....))))).)))))))))..
+
+> SSTRAND_ID=CRW_01596; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.O.mykiss; ORGANISM=NULL
+GCUUACGGCCAUACCAGCCUGAAUACGCCCGAUCUCGUCCGAUCUCGGAAGCUAAGCAGGGUCGGGCCUGGUUAGUACUUGGAUGGGAGACCGCCUGGGAAUACCAGGUGCUGUAAGCUU
+(((((((((....(((.((((.....((((((............))))..))....)))).).)).(((((......((.((.(((....))))).)).....))))).)))))))))..
+
+> SSTRAND_ID=CRW_01597; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.O.sativa.1; ORGANISM=Oryza sativa
+GGAUGCGAUCAUACCAGCACUAAAGCACCGGAUCCCAUCAGAACUCCGAAGUUAAGCGUGCUUGGGCGAGAGUAGUACUAGGAUGGGUGACCUCCUGGGAAGUCCUUGUGUUGCAUCCC
+(((((((((....(((((((......((((((............))))..)).....))))).)).((((.......((((((.((....))))))))......)))).))))))))).
+
+> SSTRAND_ID=CRW_01598; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.O.sativa.2; ORGANISM=Oryza sativa
+GGAUGCGAUCAUACGAGGACGAAAGCACCGGAUCCCAUCAGAACUCCGAAGUUAAGCGUGCUUGGGCGAGAGUAGUACUAGGAUGGGUGACCUCCUGGGAAGUCCUUGUGUUGCAUCCC
+(((((((((....(.((.(((.....((((((............))))..))....))).))..).((((.......((((((.((....))))))))......)))).))))))))).
+
+> SSTRAND_ID=CRW_01599; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.P.brevicirris; ORGANISM=NULL
+GCCUACGGCCAUACUACGUUGAAAACACCGGUUCUCGUCUGAUCACCGAAGUUAAGCAACGUCGGGCCUGGUUAGUACUUGGAUGGGUGACCGCCUGGGAAUACCAGGUGCUGUAGGUUU
+(((((((((....((((((((.....((((((............))))..))....)))))).)).(((((......((.((.(((....))))).)).....))))).)))))))))..
+
+> SSTRAND_ID=CRW_01602; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.P.hybrida.1; ORGANISM=NULL
+GGAUGCGAUCAUACCAGCACUAACGCACCGGAUCCCAUCAGAACUCCGAAGUUAAGCGUGCUUGGGCGAGAGUAGUACUGGAAUGGGUGACCCUCCGGGAAGUCCUCGUGUUGCAUCCCU
+(((((((((....(((((((......((((((............))))..)).....))))).)).((((.......(((((..((....)).)))))......)))).)))))))))..
+
+> SSTRAND_ID=CRW_01614; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.S.canicula; ORGANISM=NULL
+GCCUACGGCCAUACUAGUCUGAAAACGCCCGAUCUCGUCUGAUCUCGGAAGCUAAGCAGAUUCAGGCCUGGUUAGUACUUGGAUGGGAGACCGCCUGGGAAUACCAGGUGCAGUAGGCUU
+((((((.((....((((((((.....((((((............))))..))....)))))).)).(((((......((.((.(((....))))).)).....))))).)).))))))..
+
+> SSTRAND_ID=CRW_01617; TYPE=5S Ribosomal RNA; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=d.5.e.S.kowalevskii; ORGANISM=NULL
+GCCUACGGCCAUACCACGUAGAAUGCACCGGUUCUCGUCCGAUCACCGAAGUUAAGCUGCGUCGGGCGUGGUUAGUACUUGCAUGGGAGACCGGCUGGGAAUACCACGUGCUGUAGGCUU
+(((((((((....((((((((.....((((((............))))..))....)))))).)).(((((......((.((.(((....))))).)).....))))).)))))))))..
+
+> SSTRAND_ID=PDB_00213; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1S9S; ORGANISM=SYNTHETIC
+GGCGGUACUAGUUGAGAAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGUGAAGUUCGGAACACCCGGCCGCAACCCUGGGAGAGGUCCCAGGGUU
+.((((..((((((....))))))..)))).....((((..(((.(((((((((....)))))....)))))))))))((((((((((....))))))))))
+
+> SSTRAND_ID=PDB_00645; TYPE=16S Ribosomal RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1PNX; ORGANISM=ESCHERICHIA COLI
+CGCCCGUCACGCCAUGGGAGCGGGCUCUACCCGAAGUCGCCGGGUAACCUACGGGAAGCAGGCGCCGAGGGUAGGGCCCGUGACUGGGGCGAAGUCGUAACAAGGUAGCUGUACCGGAAGGUGCGGCUG
+.(..((.(..(((.(((..(((((((((((((...(.((((...(..((....))..)..)))).)..)))))))))))))..))).)))...).))...).....(((((((((....))))))))).
+
+> SSTRAND_ID=PDB_01255; TYPE=Other Ribozyme; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=2R8S; ORGANISM=MUS MUSCULUS
+GGAAUUGCGGGAAAGGGGUCAACAGCCGUUCAGUACCAAGUCUCAGGGGAAACUUUGAGAUGGCCUUGCAAAGGGUAUGGUAAUAAGCUGACGGACAUGGUCCUAACACGCAGCCAAGUCCUAAGUCAACAGAUCUUCUGUUGAUAUGGAUGCAGUUCA
+.....((((.(...((((((.....(((.((((.(((..(((((((((....)))))))))..(((.....)))....)))......)))))))....))))))..).))))((...((((...((((((((.....))))))))..))))...))...
+
+> SSTRAND_ID=RFA_00606; TYPE=Ciliate Telomerase RNA; EXT_SOURCE=Rfam Database; EXT_ID=RF00025 M33461.1/346-140; ORGANISM=NULL
+AUAGGGUAGUUCUCCAUUGACUAAUCCGUCAAAUCUGUCAAACAAAACCCCAAAACCGAUCAAUAGGUGCGUUUAGCUUGAUUACACCUCUUAAAUGAAAUCUUGCAAUUCUGGAGAGCUUGAGAGGUGAAACCCCCACAGUUAGGUCAAACAUAGUUUGAGAUUUGUAUCUCAUAUGCUCUAGCUGUCCUCUC
+.(((((........((.(((........)))....))..........................................((((.((.........)).))))......))))).........(((((..........((((((.((.((..........((((......))))...)).)).))))))))))).
+
+> SSTRAND_ID=RFA_00608; TYPE=Ciliate Telomerase RNA; EXT_SOURCE=Rfam Database; EXT_ID=RF00025 U10566.1/260-72; ORGANISM=NULL
+AGUUUCUCGAUAAUUGAUCUGUAGAAUCUGUCAAGCAAAACCCCAAAACCUUACACUGAGAGCAUUUAGCUUGAUUACUCUUUAAAUUAAAUCAGGCAAUAGAGAGAAACUCGAGAGGUGAAAACCCCACAGCAUUCUGAAAUGUAUUUGGGAGUAAUCUCAUAUUGGUUUGCUGUCCUCUCAUCUUUU
+.....(((..........(.(......).)......................................((((((((.............))))))))......))).......(((((..........((((((..((((.........((((....))))...))))..)))))))))))........
+
+> SSTRAND_ID=RFA_00612; TYPE=Ciliate Telomerase RNA; EXT_SOURCE=Rfam Database; EXT_ID=RF00025 U22350.1/211-52; ORGANISM=NULL
+UUAUACCCGCAAAUUCAUUCAGGUCUGUAAUAGAUCUGUCAUUCAACCCCAAAAAUCUAGUGCAAAUAUUACCUUCACCAAUUAGGUAUAAUCAAUGGUAUCGCGGGACAAAAGACUAUCGACAUUUGGUACACUAUUUAUCAAUGGAUGUCUUAUUUUU
+.....(((((.........(((.(((.....))).)))......................................((((.(.(.......).).))))...)))))....(((((.(((..(((.(((((.......))))))))))))))))......
+
+> SSTRAND_ID=RFA_00630; TYPE=RNase E 5 UTR; EXT_SOURCE=Rfam Database; EXT_ID=RF00040 AL627269.1/129570-129907; ORGANISM=NULL
+UUUCCGCACCGAAACUUGUUAAAACAAAAAGUUUAGCGGAAUAACCCAUUUUGUCUGACCGAUCAUCAACGCAGCAAUGGCGUAAGACGUAUUGAUUUUUCAGACAGU
+.((((((........((((....))))........)))))).........((((((((..((((....(((..((....))......)))...))))..)))))))).
+
+> SSTRAND_ID=RFA_00782; TYPE=Cis-regulatory element; EXT_SOURCE=Rfam Database; EXT_ID=RF00374 AF033811.1/112-12; ORGANISM=NULL
+GUCGGUACUAGUUAGCUAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGACGAGUUCGGAACACCCGGCCGCAACCCUGGGAGACGUCCCAGGGAC
+..(.(..((((((....))))))..).)......((((..(((.(((((((((....)))))....)))))))))))..((((((((....))))))))..
+
+> SSTRAND_ID=RFA_00787; TYPE=Cis-regulatory element; EXT_SOURCE=Rfam Database; EXT_ID=RF00374 J02266.1/818-718; ORGANISM=NULL
+GUCUGUACUAGUUAGCUAACUAGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGACGAGUUCUGAACACCCGGCCGCAACCCAGGGAGACGUCCCAGGGAC
+..(.(..((((((....))))))..).)......((((..(((.(((((((((....)))))....)))))))))))..(((.((((....)))).)))..
+
+> SSTRAND_ID=RFA_00792; TYPE=Cis-regulatory element; EXT_SOURCE=Rfam Database; EXT_ID=RF00374 M26526.1/755-655; ORGANISM=NULL
+GCCUGUACUAGUUGGCUGACUAGACCUGUAUCUGGCGGUUCCGUGGAAGAACUGACGAGUUCGGAGUUCCCGGCCGCAACCCUGGGAGACGUCCCGGGGAC
+..(.(..((((((....))))))..).)......((((..(((.(((((((((....)))))....)))))))))))..((((((((....))))))))..
+
+> SSTRAND_ID=RFA_00794; TYPE=Cis-regulatory element; EXT_SOURCE=Rfam Database; EXT_ID=RF00374 M93134.1/374-274; ORGANISM=NULL
+GUCUGUACUAGUUGGCCGACUAGCUCUGUAUCUGGCGGACCCGUGGUAGAACUGACGAGUUCGGGAUACCCGGCCGCAACCCUGGGAGACGUCCCAGGGAC
+..(.(..((((((....))))))..).)......((((..(((.(((((((((....)))))....)))))))))))..((((((((....))))))))..
+
+> SSTRAND_ID=RFA_00798; TYPE=Cis-regulatory element; EXT_SOURCE=Rfam Database; EXT_ID=RF00374 U13766.1/392-293; ORGANISM=NULL
+AUCUGUACUAGUUAGCUAACUAGAUCUGUAUCUGGCGGUUCCGUGGAAGAACUGACGAGUUCGUAUUCCCGACCGCAGCCCUGGGAGACGUCUCAGAGGC
+..(.(..((((((....))))))..).)......((((...((.(((((((((....)))))...)))))).))))..((((((((....)))))).)).
+
+> SSTRAND_ID=RFA_00800; TYPE=Cis-regulatory element; EXT_SOURCE=Rfam Database; EXT_ID=RF00374 V01185.1/821-721; ORGANISM=NULL
+GUCUGUACUAGUUAGCUAACAUGCUCUGUAUCUGGCGGACCCGUGGUGGAACUGACGAGUUCUGAACACCCGGCCGCAACCCUGGGAGACGUCCCAGGGAC
+..(.(..(..(((....)))..)..).)......((((..(((.(((((((((....)))))....)))))))))))..((((((((....))))))))..
+
+> SSTRAND_ID=SRP_00038; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=SRP Database; EXT_ID=BAR.HEN.; ORGANISM=NULL
+GGGAGGUUGGUGGUGGACGCACUGCUCGCCAACCGGGUCAGGUCUGGAAAGAAGCAGCCCUAACGAGUUCUGGUACGGGUCAUCGUACCAGCCUCCUAUUU
+((((((((((((((((.((.((((((((......((((....(((....)))....))))...)))))...))).))..)))))))..)))))))))....
+
+> SSTRAND_ID=SRP_00067; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=SRP Database; EXT_ID=CAM.JEJ.; ORGANISM=NULL
+AGCCUUUUCUUAGACCUGUGCAAUGCUAUUUUUAAGCACCGCUUCAGGGUGGGAACACAGCAGAGCACUUGAUUUUAGUGUGUGCCGCAGUUAUCUGGGGAAGGGUUA
+((((((((((((((.((((((.((((((...(((((....((((....(((....)))....)))).)))))...)))))))...)))))...)))))))))))))).
+
+> SSTRAND_ID=SRP_00084; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=SRP Database; EXT_ID=CHR.VIO.; ORGANISM=NULL
+GGCGGGCCUCCCCGCAUUGCACGGUAGCGAACCUGGUCAGGUCCGGAAGGAAGCAGCCACAGUUAUUCAGUGCAAGUGCCGGGGGUCGGGCUCGCCACCCCUCCC
+(((((((((((((((.((((((((((((.....((((....(((....)))....))))..))))))..)))))))...))))))...)))))))).........
+
+> SSTRAND_ID=SRP_00119; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=SRP Database; EXT_ID=ENC.CUN.; ORGANISM=NULL
+GGGCAGUAAGCAUGGGCCUGGAUGAUCUCCUUGUGGGCAGUUGGGGAGCCUGUAGGGGUGCUCCACCUGCCAUUAAAGCGGAGGGGAACGCAUGAGGGCGGAAACGCAGCAAUGAGUACCUCCUGCAGGGUAGAGUCGCCAGCAGACCAUGCCAGUCCUUUU
+(((..((..((((((.(...(.((.(((((((((.(((((.(((((.((((....)))).))))).))))).(...)..(((((....(.(((....(((....)))....))).)..))))).)))))).)))..)).).)....))))))..))..))).
+
+> SSTRAND_ID=SRP_00165; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=SRP Database; EXT_ID=LEG.PN-B; ORGANISM=NULL
+GGUGACUCUAUUGGUCCCCUCGCGACGAUAGAUUGUGAACCCCGUCAGGCCCGGAAGGGAGCAGCGGUAGCAAUUGAUGCGGGCGCCGGGGUGUGGCUCUUAGAGUCGCCGCCCAACU
+((((((((((..((((.((((((..((...((((((.....((((....(((....)))....))))..))))))....)).)...)))))...))))..))))))))))........
+
+> SSTRAND_ID=SRP_00227; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=SRP Database; EXT_ID=NEI.ME-B; ORGANISM=NULL
+GGCGGGUCUCCCCGCAUGGCAAAUCGGAACACCGGGUCAGGGGCGGAAGCCAGCAGCCCACUCCAAUGCGCCAGUGCCGGGGGUUUGGCCCGCCGCCCUAUU
+(((((((((((((((.((((..((.(((.....((((....(((....)))....))))..))).))..)))))...))))))...))))))))........
+
+> SSTRAND_ID=SRP_00233; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=SRP Database; EXT_ID=NOS.SPE.; ORGANISM=NULL
+GACCUGGAUCUAUGCGACUGCAACGCCUAAACCUUGUCAGGACCGGAAGGUAGCAGCAACACAGGAUGCUUGUGGUAGGCGUAGUCUCCGGGUCGCCCUAUU
+((((((((.((((((.((((((((((((.....((((....(((....)))....))))...))).)).)))))))..))))))..))))))))........
+
+> SSTRAND_ID=SRP_00269; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=SRP Database; EXT_ID=PRO.MA-A; ORGANISM=NULL
+GACUCGGGCCCAUGCGGCUUCGACGCCUAAAUCUGGUCAGGACCGGAAGGUAGCAGCCACAAGGGAUGCUUGAAUCUGGCGUGGAUUCCGGGUCACCUAAA
+((((((((.((((((((.((((((((((.....((((....(((....)))....))))...))).)).))))).)).))))))..)))))))).......
+
+> SSTRAND_ID=SRP_00306; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=SRP Database; EXT_ID=SIN.MEL.; ORGANISM=NULL
+GGGAGGUUGGUGGUGGACGAGCCACUCGCCAACCGGGUCAGGUCCGGAAGGAAGCAGCCCUAACGAGCCCCGGCACGGGUCAUCGUGCCAGCCUCCCACCUUCU
+((((((((((((((((.((.(((.((((......((((....(((....)))....))))...))))....))).))..)))))))..))))))))).......
+
+> SSTRAND_ID=SRP_00369; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=SRP Database; EXT_ID=XYL.FA-A; ORGANISM=NULL
+GGUGGCCCUGCCGGUCCCUCGCAACGCUAGAUCGAAAACCCCGCCAGGGCCGGAAGGCAGCAACGGUAUUGAUUGAUGCGGGUGCCGAGAUCAACCGGUGGGGCCAUC
+(((((((((((((((..(((((..(((..((((((.....(((.....(((....))).....)))..))))))...))).)...))))....)))))))))))))))
+
+> SSTRAND_ID=SRP_00381; TYPE=Signal Recognition Particle RNA; EXT_SOURCE=SRP Database; EXT_ID=ZEA.MA-H; ORGANISM=NULL
+UGGGUCUAGUGCUACAAACUGUGGACCACCCAUUCCAAGUUGCGUAGUGGGUUUCGGAUGCCUUGGCGAAAGCUUUGCAUCCCAACACUAAAGUGGCGGACAUUGCGUGAGGCUGGCUUCAUAGAGCAGCGAGUACCGCCCGCCACCAGCGGUGGAAGGAUAAUGAGUCGCUAUGCUAUAGGCCCA
+.((((((((.((...(....((((..((.((.(((((.((((.((.((..(((..(((((.(..(((....)))..)))))).))).(....).(((((....(.(((....(((......)))....))).)..))))).)).))))))..)))))))....))..)))))..))).))))))).
+

@@ -1,0 +1,80 @@
+> SSTRAND_ID=A.tum.RNaseP; TYPE=Ribonuclease P RNA; EXT_SOURCE=van Batenburg et al 2001;
+CCAGUUGGCCGGGCAGCCGCGCCUUACCAAUGUCGAAAGACGGUAAGGUGAGGAAAGUCCGGGCUCCACGGAAAUACGGUGCCGGAUAACGUCCGGCGGGGGCGACCCCAGGGAAAGUGCCACAGAGAGCAAACCGCCAUGCCUUGCAUGGUAAGGGUGAAAGGGUGGGGUAAGAGCCCACCGCGCCGCUGGUGACAGUGGUGGCAAGGUAAACCCCACCGGGAGCAAGACCGAAUAGGGAUGACACGGGGCGGGCGAAAGCCUGUUCACAGCCGGUUUCCGGGCCCGUCAUCCGGGUGGGUUGCGAGAGGCGGCAUGCAAAUGCCGUCCCAGAUGAAUGGCUGCCACGUUCCGGGUCAAACCGGGGCCAUACAGAACCCGGCUUACAGGCCAACUGGCG
+((((((((((([[[[[[[.(((((((((...(((....))))))))))))....(((.(((((((((.[[[[[[[.((((((((((.....)))))(((((....)))).)((...(((((............(((((((((...)))))))..)).......((((((.......))))))(((((((((....)))))))).)..)))..)))))))))))))...((((......(((((((...((((((((....))))))))...(((.]]]]]]])))..))))))).....))))......((((((((....))))))))..........]]]]]]]..(((((((......))))))).........)))))))).).))))))))))..
+
+> SSTRAND_ID=Ec_alpha; TYPE=mRNA; EXT_SOURCE=van Batenburg et al 2001;
+UGUGCGUUUCCAUUUGAGUAUCCUGAAAACGGGCUUUUCAGCAUGGAACGUACAUAUUAAAUAGUAGGAGUGCAUAGUGGCCCGUAUAGCAGGCAUUAACAUUCCUGA
+(((((((.(((((........[[[[....[[[[....{{{{.))))))))))))..........................]]]].....]]]]...........}}}}
+
+> SSTRAND_ID=telo.human; TYPE=telomerase RNA; EXT_SOURCE=Chen et al 2000;
+GGGUUGCGGAGGGUGGGCCUGGGAGGGGUGGUGGCCAUUUUUUGUCUAACCCUAACUGAGAAGGGCGUAGGCGCCGUGCUUUUGCUCCCCGCGCGCUGUUUUUCUCGCUGACUUUCAGCGGGCGGAAAAGCCUCGGCCUGCCGCCUUCCACCGUUCAUUCUAGAGCAAACAAAAAAUGUCAGCUGCUGGCCCGUUCGCCCCUCCCGGGGA
+.................((((((((((((((.(((((...........................((((((((.....(((((.......(((((((((........[[[[[[[[[)))))))))..)))))....))))).))).............................]]].]]]]]]...)))))...))))))))))))))..
+
+> SSTRAND_ID=TMV.R; TYPE=viral RNA; EXT_SOURCE=van Belkum et al 1985;
+UGUGUCUUGGAUCGCGCGGGUCAAAUGUAUAUGGUUCAUAUACAUCCGCAGGCACGUAAUAAAGCGAGGGGUUCGAAUCCCCCCGUUACCCCCGGUAGGGGCCCA
+.((((((....[[[[((((.....(((((((((...)))))))))))))))))))........]]]]((((.......))))[[[...((((]]]..))))....
+
+> tobacco-mosaic-virus
+UGCAACUUGAGGUAGUCAAGAUGCAUAAUAAAUAACGGAUUGUGUCCGUAAUCACACGUGGUGCGUACGAUAACGCAUAGUGUUUUUCCCUCCACUUAAAUCGAAGGGUUGUGUCUUGGAUCGCGCGGGUCAAAUGUAUAUGGUUCAUAUACAUCCGCAGGCACGUAAUAAAGCGAGGGGUUCGAAUCCCCCCGUUACCCCCGGUAGGGGCCCA
+((((.(((((.....))))).)))).........(((((.[[[[)))))...]]]][[[.((((((]]]...))))))[[[[.....(((((]]]]......).)))).(((((((....[[[[((((.....((((((((.....))))))))))))))))))).......]]]]((((.......))))[[[...((((]]]..))))....
+
+> Coxsackie
+UUUUAGAUUAgAGACAAUUUGAAAUAAUUUAGAUUGGCUUAACCCUACUGUGCUAACCGAACCAGAUAACGGUACAGUAGGGGUAAAUUCUCCGCAUUCGGUGCGGAAAAAAAA
+((((....(.(((.(((((((((....))))))))).))).)((((((((((((.[[[[[[.........)))))))))))).....((.(((((.]]]]]]))))).))))))
+
+> SSTRAND_ID=ASE_00131; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=volunteer ESH26-4; ORGANISM=NULL
+gcUGCACAGAGCGGGAUGACGGCUAACGGCCGUACGCUGAAAGCUGGCAACAGUAUAAGGCGAGGAAUAGGGCCACAGAGACGAGCGUAUUAAGUUACGGUGAAACGCGGUAACCUCCAUCAGCAGCAAUAUCAAAUAGGCUGGCAUUUGUCGCAAGACAUAAGGCGUGGCUCGCGCCUGCCAGCGGGUAGAUAG
+.((((...[[[[..(((((((((.....))))).((((..(.((((....)))).)..))))..((...(((((...........((((......)))).........)))..)))))))).))))...((((......(((((((..((((....))))...(((((.]]]])))))))))))).....)))).
+
+> SSTRAND_ID=ASE_00360; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=Wastewater SL-C; ORGANISM=NULL
+ccAUCAUACAGAACCGUGAUGCCAGCAGGCAUCUGCUGAGAAGCAGGACACUGGAGCAGAAACGAUAUGUUUUCUAAUGGACGAACAUGAUGCUUAAAUGCUGAUGGACAUUAGAAAAAUACAGUGAAACGGCUAUUCCACGGGAUGCAAGGACAAAUACUGUUUAUGGAUCCUGUAUGAAACAGAGGUAGUCCG
+.((((.[[[[[..((((((((((....)))))(((((....)))))((...(((.............((((((((((((............((......)).......))))))))))...)).........))).)))))))))))...((((.....(((((.....(..]]]]])..))))).....)))).
+
+> SSTRAND_ID=ASE_00429; TYPE=Ribonuclease P RNA; EXT_SOURCE=RNase P Database; EXT_ID=Thiobacillus thioparus, strain ATCC 8158; ORGANISM=NULL
+gcUCCACAGAGCAGGAUGCCGGCUAACGGCCGGACGCCGCGAGGCGAGGAAUAGGGCCACAGAGACGAGCGUAUUCAGUUACGGUGAAACGCGGUAACCUCCAUCCGGAGCAACACCAAAUAGGCAGGCGAUGAAGCGGCUCGCUGAGUCUGCGGGUAGGUGGCUUGAGCCGGUCAGCAAUGGCCGGCC
+.((((...[[[[.((((((((((.....))))).((((....))))..((...(((((...........((((......)))).........)))..)))))))))))))...((((......((((((.....(((.]]]])))..)))))).....))))......((((((((....)))))))).
+
+> SSTRAND_ID=CRW_00611; TYPE=Group I Intron; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=a.I1.b.S.hofmanii.C3.tMET; ORGANISM=NULL
+ACCUGUCAAACUCGGGGAAGCCAAUAGCGCGGUAAUCCCGAACCAAGCUCCAGAAAUGGAGAAGGUGUAGAGACUGGAAGGCAGGUACCCUAACAGUAAAGCUGAGGGUAAAGGGACAGUCCAGACCACAAACUGGUUAAUCCAGGCAGUGAAAACUGUAGAUGGUA
+.[[[[[[....((((((...((........))...))))))((....(((((....)))))...))...(.(((((...]]]]]]((((((..((.......))))))))......))))))..((((....((((.....))))(((((....)))))...)))).
+
+> SSTRAND_ID=CRW_00641; TYPE=Group I Intron; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=a.I1.e.C.grayi.UNK.SSU.1046; ORGANISM=NULL
+CAUCCUCCCUGUGCUGAAAGCCUUCCCCUUACAGGGGCGGUAUCAGCAGCCAAAGAAUGCCAGCGCGGCUUCUUCGGUUCACAGACUAGGCGAGUGAUGGGCUGAGCCCUUAGGGGUCUCAGUUCGAGAUAUAGUCGAGCCCCAGGGUCUAAGACCUGGGUGUUUGCG
+.[[[[[[....((((((..(((..(((((...))))).))).))))))(((.(((((.(((.....)))))))).)))...(.(((((...]]].]]](((((((((((....))).))))))))......)))))).((((((((........)))))).....)).
+
+> SSTRAND_ID=CRW_00659; TYPE=Group I Intron; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=a.I1.e.L.dispersa.UNK.SSU.1046; ORGANISM=NULL
+CACCCUCCCUGUGCUGGAAGCUCCCCACCGCGGGGGGCACCAGCAGCCCAGCGUACCCCUCAAGGCCGCUGCGGUUCACAGACUACGCGUGGUGUGGGCCGGGGCUCAAGGCGACGGCUUCGAGAUAUAGUCGAGAUAUAGUCGAGCCCCGGGUCGAGUGAGUCGUUUCG
+.[[[[.[....((((((...((((((.....))))))..))))))((((((((..((......)).))))).)))...(.(((((...].]].]]((((((.............))).)))......)))))).((..((.((((........)))).)).......)).
+
+> SSTRAND_ID=CRW_00687; TYPE=Group I Intron; EXT_SOURCE=Gutell Lab CRW Site; EXT_ID=a.I1.e.S.paniceum.UNK.SSU.1052; ORGANISM=NULL
+CAUCCUCAAGGUGCUGGAAGUUACCUGCAAAGGUAAUAUCAGCAGCCACAUCUCCAUGUGGUUCACAGACUAAAUGAGGGUGGACCAAAUCCGCCAGGGUAUAGGUUUCAGAUAUAGUCGGCCUGAUGCGAACAACGUGUACAGACUGCAGCG
+.[[[[[[....((((((...((((((....))))))..))))))(((((((....)))))))...(.(((((...]]]]]](((((..((((....))))...)))))......))))))((((((((((.....))))).)))......)).
+
+> SSTRAND_ID=TMR_00007; TYPE=Transfer Messenger RNA; EXT_SOURCE=tmRNA Database; EXT_ID=Acid.caps._TRW-240015_1-352; ORGANISM=NULL
+CGCAGCUUAAUUAAAUAAGUUGCCGUCCUCUGAGGCUUCGCCUGUGGGCCGAGGCAGGACGUCAUACAGCAGGCUGGUUCCUUCGGCUGGGUCUGGGCCGCGGGGAUGAGAUCCACGGACUAGCAUUCUGCGUAUCUUGUCGCUUCUAAGCGCAGAGUGCGAAACCUAAAGGAAUGCGACU
+.((((((((......))))))))(((((.((..(((((.[[[[[[)))))..))..))))).......]]]]]]..((((((.((((([[.[[..))))).)))))).........]].]].((((((((((...((([[[[[[[[.)))))))))))))...........]]].]]]]].
+
+> SSTRAND_ID=TMR_00009; TYPE=Transfer Messenger RNA; EXT_SOURCE=tmRNA Database; EXT_ID=Acid.ferr._TRW-243159_1-364; ORGANISM=NULL
+AGAGCUGCGGUUCGCUCUUAAAACUGGUCGCAGAUUCAUAAUUGCCAACGACAGCAAUUACGCUCUCGCUGCUUAAGCAGUGAGCCCUCUGCCCGGAUUUGUCUGUGGAUCCGGAGCCGAAAGGCGCGCGGAGGGUCAUGAAACACGGAAUCGUGCGCAUUCUAGUCUGUGGGAUGCGCGCUAAAUUAAAGCAGAA
+[[[[[(((((((.]]]]].......)))))))................................((((((((....))))))))(((((((.(((((((..[[[[[[))))))).(((....)))...)))))))........]]]]]].(.((((((((((((.[[[[)))))))))))).)........]]]].
+
+> SSTRAND_ID=TMR_00027; TYPE=Transfer Messenger RNA; EXT_SOURCE=tmRNA Database; EXT_ID=Alca.visc._AY911519_1-389; ORGANISM=NULL
+CGAGCACCAGUACGCUCGUUAAACCACUGGAACACUACAAACGCCAACGACGAGCGUUUCGCUCUCGCCGCUUAAGCGGUGAGCCGCUGCACUGAUCUGUCCUUGGGUCAGGCGGAGGAAGGCAACUUCCCAGGGGGGCAACCCUCGAACCGCAGCAGCGACAUUCACAAGGAA
+[[[[[.(((((..]]]]].......))))).................................((((((((....)))))))).((((((.((((((..[[[[[[))))))((((.(((((....))))).((((......))))....)))).)))))).......]]]]]].
+
+> SSTRAND_ID=TMR_00027; TYPE=Transfer Messenger RNA; EXT_SOURCE=tmRNA Database; EXT_ID=Alca.visc._AY911519_1-389; ORGANISM=NULL
+GGUUUGAACUGGGGUCACACGGUUCAAAUUUAAAUUACGUGAAUCGCUCUGGUCCGGCCUGUCGGUUGGCUAAGUCCAGGGUUAAAACCAAAUAGAUCGACU
+.(((((((.(.([.[[[[......).).)))))))...]]]].]..((((((.(.((((.[[[[.[[))))..).))))))............]]..]]]].
+
+> SSTRAND_ID=TMR_00047; TYPE=Transfer Messenger RNA; EXT_SOURCE=tmRNA Database; EXT_ID=Baci.G._TRW-12333_1-312; ORGANISM=NULL
+CAAUAGAGUUGCUCUAACAUCUAUUUGAGGUUCAAAGAUUUGAGCUAUUUCUUACUUUAGAAUAAAGUAAGUGGUGGAGCCUAGAGAAAACGCUGUAGAAACUAACUAUUCAAAUUGUAAAUGGUAUCAA
+.(.(((.(.....((.(...[[[[[[[.............).)).....).))).)...........]]]]]]]...((..(.((.(........[.[.[.[....).)).)..))......].].].].
+
+> SSTRAND_ID=TMR_00049; TYPE=Transfer Messenger RNA; EXT_SOURCE=tmRNA Database; EXT_ID=Baci.lich._CP000002_1-356; ORGANISM=NULL
+CGAGAGGCGAUCUCGUAAAAACGCACCUAAAUAUAACUGGCAAAUCUAACCAGAACUUAGCACUAGCUGCCUAAUUAGCGCAGCGAGCUCUUGCCCGCAUCGCCUAUGUGCCGGUUAAGAGCCCAUAACGAAGUAGGCU
+(((((.[[[.)))))......]]].........................................(((((((....)).)))))..(..((((.((((((.[[[[[[)))).)).)..)))..)........]]]]]].
+
+> SSTRAND_ID=TMR_00049; TYPE=Transfer Messenger RNA; EXT_SOURCE=tmRNA Database; EXT_ID=Baci.lich._CP000002_1-356; ORGANISM=NULL
+CUUGCGCCCCCGUCUGAGGGCGCAGGAAGAGACUCAUCAGACUAGCUCUCCUAGGGCCCGCCCGCAGGCACGAAGAUGAGCGAAACUAAAUAUGCAGGGCU
+.[[...[[...((((((]].....]]..........))))))..((((..((...(((.[[[[...)))....))..))))...............]]]].
+
